@@ -24,7 +24,7 @@ const SITE_CONFIG = {
   footerLinks: [
     {
       type: "github",
-      href: "https://github.com/AugustCorvin/MTProxyPages",
+      href: "https://github.com/MTProxyPages",
       title: "Этот сайт на GitHub",
     },
     {
