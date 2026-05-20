@@ -1,0 +1,22 @@
+{
+  "name": "Моя подписка VK",
+  "desc": "Подписка с серверами VK, режим Reality, Stream-One",
+  "servers": [
+    {
+      "protocol": "vless",
+      "address": "217.16.20.38",
+      "port": 443,
+      "uuid": "4dff6fd0-66f6-41b4-b89c-4d276aab4cf2",
+      "encryption": "none",
+      "security": "reality",
+      "type": "xhttp",
+      "mode": "stream-one",
+      "fp": "ios",
+      "sni": "sun6-21.userapi.com",
+      "pbk": "DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM",
+      "sid": "d7e1a111",
+      "spx": "/",
+      "name": "🇨🇿 Czechia [*CIDR] VK"
+    }
+  ]
+}
